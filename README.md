@@ -1,2 +1,7 @@
 # Twitter-Reddit-Sentiment-Analysis
-Performing sentiment analysis on Twitter tweets and Reddit comments using RoBERTa
+
+![Status](https://img.shields.io/badge/Status-Completed-yellowgreen.svg)
+
+## Dataset
+
+Twitter and Reddit Sentimental Analysis Dataset: <a href="https://www.kaggle.com/datasets/cosmos98/twitter-and-reddit-sentimental-analysis-dataset">link</a>
